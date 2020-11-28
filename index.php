@@ -1,0 +1,53 @@
+<!DOCTYPE html><!-- es una instrucción especial que va al inicio de nuestro documento HTML, damos el inicio con el documento-->
+<html lang="en">
+<head>
+	<meta charset="UTF-8"><!--se incorporan en el encabezado de una página web y que resultan invisibles para un visitante normal-->
+	<title> PROYECTO </title><!--cerramos lo declarado-->
+	 <link rel="stylesheet" type="text/css" href="tablass.css"/><!--especifica la relación entre el documento actual y un recurso externo-->
+</head><!--cerramos lo declarado-->
+
+<body>	
+	<center>
+		<td><font color="black" face=" helvetica"><!--Indica el tamaño, color, o fuente del texto que contiene clartamente se puede ver-->
+		<h1> Navidad  </h1><!-- el título de un pos-->
+	</center>
+
+	<center>		
+				<a href=""><img src="2.png"width= "18%"; height= "auto%"></a> 
+				<p style="font-size: 18px;"><b>La Navidad es una festividad religiosa en la que los cristianos conmemoran el nacimiento de Jesucristo. Se celebra el 25 de diciembre de cada año.</b></p><!-- lo mismo que  lo anterior-->
+				
+	</center><!--cerramos lo declarado-->
+
+	<table>
+<caption>Se volvio un negocio</caption>
+  <tr>
+    <th>piezas </th>
+    <th>Adornos</th>
+    <th>Precio</th>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Esferas de plastico #6</td>
+    <td>90</td>
+  </tr>
+   <tr>
+    <td>20</td>
+    <td>Esferas de plastico #10</td>
+    <td>120</td>
+  </tr>
+  <tr>
+  <td>30</td>
+    <td>Esferas de cristal</td>
+    <td>120</td>
+ </tr>
+  <td>1</td>
+    <td>Estrella de cristal</td>
+    <td>190</td>
+ </tr>
+</table>
+
+<br><!--saltos de linea-->
+
+
+</body><!--cerramos lo declarado-->
+</html><!--cerramos lo declarado-->
